@@ -1,0 +1,2 @@
+# GoSolr
+Golang Solr
